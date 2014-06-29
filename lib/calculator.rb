@@ -1,3 +1,4 @@
+#This is a simple calculator that sums, substracts, multiplies and divides
 def adds_two_numbers_given(number_a, number_b)
 	number_a + number_b
 end
