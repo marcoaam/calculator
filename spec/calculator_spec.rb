@@ -1,4 +1,4 @@
-require "calculator"
+require 'calculator'
  describe "Simple Calculator" do
 
  	context "Operations : it can" do
